@@ -15,7 +15,7 @@ In response, Mr. Shofoluwe has engaged the expertise of an HR Analytics professi
 This project represents a pivotal step in restoring public trust, safeguarding the company’s reputation, and building a future where gender equality is not just a goal but a foundational principle of Palmoria’s organizational culture.
 
 
-# $${\color{blue}OBJECTIVE /Space STATEMENT}$$
+# $${\color{blue}OBJECTIVE \space STATEMENT}$$
 
 The primary objective of this project is to identify, analyze, and address gender-related disparities within The Palmoria Group’s workforce across its three regional operations. By leveraging HR analytics, the project aims to support the company’s leadership in making informed, data-driven decisions that promote gender equality and foster a more inclusive organizational culture. Specifically, the objectives are to:
 
