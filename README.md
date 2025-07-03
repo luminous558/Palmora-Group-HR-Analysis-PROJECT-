@@ -30,3 +30,6 @@ The primary objective of this project is to identify, analyze, and address gende
 - **Generate actionable insights and recommendations** for leadership to implement sustainable strategies that promote gender equality.
 
 - **Support reputational recovery** and reinforce the company’s commitment to diversity, equity, and inclusion, particularly as Palmoria positions itself for expansion into new markets.
+
+
+# $${\color{blue}PROJECT \space EDA, \space Gender \space Equality \space and \space Pay \space Analysis}$$
