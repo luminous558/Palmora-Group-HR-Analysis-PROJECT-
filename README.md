@@ -142,7 +142,7 @@ below Calculations was applied
 
 Overall imbalance: Males constitute a significantly higher percentage of the workforce (49.2%), with females underrepresented, especially in Legal and Accounting roles.
 
-Regional differences: Kaduna has the lowest female representation (<40%), while Abuja and Lagos has the highest.
+Regional differences: Kaduna has the lowest female representation (<46%), while Abuja and Lagos has the highest.
 
 Departmental variation: Departments such as Accounting and Legal are heavily male-dominated, while Marketing and Training Deartment have more gender balance.
 
@@ -150,29 +150,29 @@ Departmental variation: Departments such as Accounting and Legal are heavily mal
 ### 🔹 2. **Performance Ratings by Gender**
 
 
-Bias patterns: On average, male employees receive higher performance ratings, particularly in Region A.
+Bias patterns: On average, male employees receive higher performance ratings, particularly in Kaduna.
 
-Rating disparity: A higher proportion of males fall into the top performance band (e.g., 4–5), which directly affects bonus allocation and promotion eligibility.
+Rating disparity: A higher proportion of males fall into the top performance band (4–5), which directly affects bonus allocation and promotion eligibility.
 
 
 ### 🔹 3. **Salary Structure & Gender Pay Gap**
 
 
-Pay gap exists: Across all departments, male employees earn on average 10–25% more than their female counterparts.
+Pay gap exists: Across all departments, male employees earn on average 10–15% more than their female counterparts.
 
 Most affected areas:
 
-Region A and Region B show the widest pay gaps.
+Kaduna and Lagos show the widest pay gaps.
 
-Engineering, Finance, and Production departments have the most pronounced disparities.
+Accounting, Legal, and Production Management have the most pronounced disparities.
 
 
 ### 🔹 4. **Minimum Salary Compliance**
 
 
-Non-compliance risk: A significant portion of the workforce (e.g., 18%) earns below $90,000, particularly in Production and Support Services.
+Non-compliance risk: A significant portion of the workforce (e.g., 18%) earns below $90,000 particularly in Production and Legal Service.
 
-Salary bands: Most employees fall into the $70,000–$80,000 range, with very few in higher bands.
+Salary bands: Most employees fall into the Above $90,000 range, with higher bands.
 
 
 ### 🔹 5. **Bonus Allocation & Total Compensation**
@@ -182,9 +182,9 @@ Performance-driven inequality: Bonus payouts favor high-rated (mostly male) empl
 
 Total payout analysis:
 
-Region C receives the highest total payout due to more balanced ratings.
+Kaduna receives the highest total payout due to more balanced ratings.
 
-Region B lags in bonus distribution and overall compensation equity.
+Lagos lags in bonus distribution and overall compensation equity.
 
 
 # 🛠 $${\color{Aqua}RECOMMENDATIONS}$$
@@ -193,7 +193,7 @@ Region B lags in bonus distribution and overall compensation equity.
 ### 📌 1. **Promote Gender Equity Initiatives**
 
 
-Implement gender targets for recruitment, especially in underrepresented departments (e.g., Engineering, Production).
+Implement gender targets for recruitment, especially in underrepresented departments (e.g., Accounting, Legal).
 
 Launch mentoring programs to support women in career progression and leadership development.
 
@@ -207,7 +207,7 @@ Conduct annual pay audits and adjust compensation where unjustified gaps exist.
 
 Standardize pay bands by role, not by gender or region.
 
-Prioritize corrections in high-gap departments like Finance and Engineering.
+Prioritize corrections in high-gap departments like Accounting and Legal.
 
 
 ### 📌 3. **Ensure Regulatory Compliance**
@@ -242,6 +242,21 @@ Introduce diversity-based incentives for departments that show measurable equity
 
 # $${\color{Aqua}PROJECT \space VISUALIZATION \space DASHBOARD}$$
 
+Below is the Visualisation of PALAMORA Organization that shows Analysis of Gender Pay Gap, Gender Rating by Region and Deartment, Bonus Rate, Salary Band and so...
+The Visualization Include Slicer to Navigate through the Visualizations Dashboard, and below Images shows Answers to Case scenario that was asked by the Company Managements.
+
+![Visualisation 4 Screenshot ](https://github.com/user-attachments/assets/5dedf866-7152-471c-a416-f3f08bb34bd8)
+
+Using Slicer to navigate Visualizations Dashboard to get Various Output.
+
+1.
+![Visualization 2 Screenshot](https://github.com/user-attachments/assets/14f41145-301c-4ad3-8aff-af9b91afd942)
+
+2.
+![Visualisation Screenshot](https://github.com/user-attachments/assets/5c96e832-bc68-4890-9d3d-7c42a45e2056)
+
+3.
+![Visualisation 2 Screenshot](https://github.com/user-attachments/assets/3abf9129-06af-4545-95a3-86389bbff209)
 
 
 
