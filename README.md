@@ -45,12 +45,78 @@ proper cleaning was done i.e)
 
 This shows the representation of genders across the company.
 
-Below are the Steps for carrying out the Analysis 
+Below are the Steps for carrying out the Analysis;
 
-Determine overall gender distribution (% Male, % Female, % Non disclosed).
+- Determine overall gender distribution (% Male, % Female, % Non disclosed).
 
 Break down by:
 
-Regions ( Region Abuja, Lagos, Kaduna)
+- Regions ( Region Abuja, Lagos, Kaduna)
 
-Departments ( Engineering, Legal, Sales, etc.)
+- Departments ( Engineering, Legal, Sales, etc.)
+
+
+ 2. **Performance Rating Analysis by Gender**
+
+This Explore if gender biases exist in employee performance evaluations.
+
+Below are the Steps for carrying out the Analysis;
+
+- Employees by gender was grouped and average performance ratings was calculated
+
+- Distribution of ratings (i.e., how many males vs. females got top ratings).
+
+Ratings was done by; 
+
+   - Region
+
+   - Department
+
+
+ 3. **Salary Structure & Gender Pay Gap Analysis**
+
+pay inequality was Identified and regions/departments where it is most severe.
+
+Below are the Steps for carrying out the Analysis;
+
+Average salary was calculated by:
+
+   - Gender (overall)
+
+   - Gender & department
+
+   - Gender & region
+
+ 4. **Minimum Salary Compliance Check**
+
+Compliance with the $90,000 minimum salary regulation was ensured
+
+Below are the Steps for carrying out the Analysis;
+
+Employees earning was filtered as < $90,000 and count them.
+
+Salary data was segmented into $10,000 bands:
+
+$10k–$20k, $20k–$30k, ..., $90k+
+
+And it was breakdown by region.
+
+ 5. **Bonus Allocation & Total Compensation Analysis**
+
+Bonus rules to compute additional compensation and regional totals was applied 
+
+Below are the Steps for carrying out the Analysis;
+
+Performance rating dataset with bonus rules was merged 
+
+below Calculations was applied 
+
+- Bonus amount per employee
+
+- New total compensation (salary + bonus)
+
+  - Group by region to get:
+
+- Total bonus payout
+
+- Total compensation payout
