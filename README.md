@@ -53,9 +53,9 @@ $${\color{orangered}Below \space are \space the \space Steps \space for \space c
 
 Break down by:
 
-- Regions ( Region Abuja, Lagos, Kaduna)
+- Regions ( Abuja, Lagos, Kaduna)
 
-- Departments ( Engineering, Legal, Sales, etc.)
+- Departments ( Accounting, Legal, Sales, etc.)
 
 
 ## 2. **Performance Rating Analysis by Gender**
