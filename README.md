@@ -34,5 +34,23 @@ The primary objective of this project is to identify, analyze, and address gende
 
 # $${\color{blue}PROJECT \space EDA, \space Gender \space Equality \space and \space Pay \space Analysis}$$
 
+After the Palmoria employee Data was Imported into Power BI.
+
+proper cleaning was done i.e)
+1. employees without salaries and departments indicated as "NULL" was removed 
+2. A generic gender status was assigned to employees who refused to disclose their gender.
+
 
 ## 1. Gender Distribution Analysis
+
+This shows the representation of genders across the company.
+
+Below are the Steps for carrying out the Analysis 
+
+Determine overall gender distribution (% Male, % Female, % Non disclosed).
+
+Break down by:
+
+Regions ( Region Abuja, Lagos, Kaduna)
+
+Departments ( Engineering, Legal, Sales, etc.)
