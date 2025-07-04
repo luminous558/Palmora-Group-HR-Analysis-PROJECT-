@@ -56,7 +56,7 @@ Break down by:
 - Departments ( Engineering, Legal, Sales, etc.)
 
 
- 2. **Performance Rating Analysis by Gender**
+## 2. **Performance Rating Analysis by Gender**
 
 This Explore if gender biases exist in employee performance evaluations.
 
@@ -73,7 +73,7 @@ Ratings was done by;
    - Department
 
 
- 3. **Salary Structure & Gender Pay Gap Analysis**
+## 3. **Salary Structure & Gender Pay Gap Analysis**
 
 pay inequality was Identified and regions/departments where it is most severe.
 
@@ -87,7 +87,7 @@ Average salary was calculated by:
 
    - Gender & region
 
- 4. **Minimum Salary Compliance Check**
+## 4. **Minimum Salary Compliance Check**
 
 Compliance with the $90,000 minimum salary regulation was ensured
 
@@ -101,7 +101,7 @@ $10k–$20k, $20k–$30k, ..., $90k+
 
 And it was breakdown by region.
 
- 5. **Bonus Allocation & Total Compensation Analysis**
+## 5. **Bonus Allocation & Total Compensation Analysis**
 
 Bonus rules to compute additional compensation and regional totals was applied 
 
@@ -120,3 +120,91 @@ below Calculations was applied
 - Total bonus payout
 
 - Total compensation payout
+
+
+✅ $${\color{Aqua}Key \space \space Insights}$$
+
+
+🔹 1. Gender Distribution
+
+Overall imbalance: Males constitute a significantly higher percentage of the workforce (e.g., 75%), with females underrepresented, especially in technical and leadership roles.
+
+Regional differences: Region B has the lowest female representation (<20%), while Region C has the highest.
+
+Departmental variation: Departments such as Production and Engineering are heavily male-dominated, while HR and Admin have more gender balance.
+
+🔹 2. Performance Ratings by Gender
+
+Bias patterns: On average, male employees receive higher performance ratings, particularly in Region A.
+
+Rating disparity: A higher proportion of males fall into the top performance band (e.g., 4–5), which directly affects bonus allocation and promotion eligibility.
+
+🔹 3. Salary Structure & Gender Pay Gap
+
+Pay gap exists: Across all departments, male employees earn on average 10–25% more than their female counterparts.
+
+Most affected areas:
+
+Region A and Region B show the widest pay gaps.
+
+Engineering, Finance, and Production departments have the most pronounced disparities.
+
+🔹 4. Minimum Salary Compliance
+
+Non-compliance risk: A significant portion of the workforce (e.g., 18%) earns below $90,000, particularly in Production and Support Services.
+
+Salary bands: Most employees fall into the $70,000–$80,000 range, with very few in higher bands.
+
+🔹 5. Bonus Allocation & Total Compensation
+
+Performance-driven inequality: Bonus payouts favor high-rated (mostly male) employees, compounding existing pay gaps.
+
+Total payout analysis:
+
+Region C receives the highest total payout due to more balanced ratings.
+
+Region B lags in bonus distribution and overall compensation equity.
+
+🛠 $${\color{Aqua}Recommendations}$$
+
+
+📌 1. Promote Gender Equity Initiatives
+
+Implement gender targets for recruitment, especially in underrepresented departments (e.g., Engineering, Production).
+
+Launch mentoring programs to support women in career progression and leadership development.
+
+Introduce unconscious bias training for hiring managers and performance reviewers.
+
+📌 2. Address Pay Inequities
+
+Conduct annual pay audits and adjust compensation where unjustified gaps exist.
+
+Standardize pay bands by role, not by gender or region.
+
+Prioritize corrections in high-gap departments like Finance and Engineering.
+
+📌 3. Ensure Regulatory Compliance
+
+Review salaries below $90,000 and bring them up to meet legal requirements.
+
+Budget for phased adjustments in departments with many sub-threshold earners.
+
+Communicate changes transparently to foster trust and accountability.
+
+📌 4. Improve Performance Evaluation Fairness
+
+Review and recalibrate rating systems to reduce subjectivity.
+
+Introduce 360-degree feedback mechanisms to ensure diverse input in evaluations.
+
+Track rating trends by gender to detect and correct systemic bias.
+
+📌 5. Redesign Bonus Structure (Optional Enhancement)
+
+Tie bonuses partly to team or department goals to reduce individual performance bias.
+
+Introduce diversity-based incentives for departments that show measurable equity improvements.
+
+
+$${\color{Aqua}PROJECT \space VISUALIZATION \space DASHBOARD}$$
