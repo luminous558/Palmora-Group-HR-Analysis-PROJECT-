@@ -45,7 +45,7 @@ proper cleaning was done i.e)
 
 This shows the representation of genders across the company.
 
-Below are the Steps for carrying out the Analysis;
+$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 - Determine overall gender distribution (% Male, % Female, % Non disclosed).
 
@@ -60,7 +60,7 @@ Break down by:
 
 This Explore if gender biases exist in employee performance evaluations.
 
-Below are the Steps for carrying out the Analysis;
+$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 - Employees by gender was grouped and average performance ratings was calculated
 
@@ -77,7 +77,7 @@ Ratings was done by;
 
 pay inequality was Identified and regions/departments where it is most severe.
 
-Below are the Steps for carrying out the Analysis;
+$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 Average salary was calculated by:
 
@@ -91,7 +91,7 @@ Average salary was calculated by:
 
 Compliance with the $90,000 minimum salary regulation was ensured
 
-Below are the Steps for carrying out the Analysis;
+$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 Employees earning was filtered as < $90,000 and count them.
 
@@ -105,7 +105,7 @@ And it was breakdown by region.
 
 Bonus rules to compute additional compensation and regional totals was applied 
 
-Below are the Steps for carrying out the Analysis;
+$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 Performance rating dataset with bonus rules was merged 
 
