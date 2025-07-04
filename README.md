@@ -47,7 +47,7 @@ proper cleaning was done i.e)
 
 This shows the representation of genders across the company.
 
-$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
+$${\color{orangered}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 - Determine overall gender distribution (% Male, % Female, % Non disclosed).
 
@@ -62,7 +62,7 @@ Break down by:
 
 This Explore if gender biases exist in employee performance evaluations.
 
-$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
+$${\color{orangered}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 - Employees by gender was grouped and average performance ratings was calculated
 
@@ -81,7 +81,7 @@ Ratings was done by;
 
 pay inequality was Identified and regions/departments where it is most severe.
 
-$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
+$${\color{orangered}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 Average salary was calculated by:
 
@@ -98,7 +98,7 @@ Average salary was calculated by:
 
 Compliance with the $90,000 minimum salary regulation was ensured
 
-$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
+$${\color{orangered}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 Employees earning was filtered as < $90,000 and count them.
 
@@ -115,7 +115,7 @@ And it was breakdown by region.
 
 Bonus rules to compute additional compensation and regional totals was applied 
 
-$${\color{orange}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
+$${\color{orangered}Below \space are \space the \space Steps \space for \space carrying \space out \space the \space Analysis;}$$
 
 Performance rating dataset with bonus rules was merged 
 
@@ -266,7 +266,7 @@ Using Slicer to navigate Visualizations Dashboard to get Various Output.
 
 
 
-The gender inequality concerns raised at The Palmoria Group are not only valid but also supported by clear data patterns across regions and departments. The analysis has revealed systemic issues — including gender imbalance in workforce distribution, disparities in performance ratings, and a persistent gender pay gap — particularly concentrated in key operational areas like Production and Engineering.
+The gender inequality concerns raised at The Palmoria Group are not only valid but also supported by clear data patterns across regions and departments. The analysis has revealed systemic issues — including gender imbalance in workforce distribution, disparities in performance ratings, and a persistent gender pay gap — particularly concentrated in key operational areas like Accounting and Legal.
 
 Furthermore, compliance risks have been identified, as a significant number of employees currently earn below the newly mandated minimum salary threshold of $90,000. These gaps in pay, performance evaluation, and compensation allocation pose not just internal culture challenges, but also reputational and legal risks, especially as Palmoria positions itself for international expansion.
 
