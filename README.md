@@ -39,6 +39,8 @@ After the Palmoria employee Data was Imported into Power BI.
 proper cleaning was done i.e)
 1. employees without salaries and departments indicated as "NULL" was removed 
 2. A generic gender status was assigned to employees who refused to disclose their gender.
+   
+![Project Screenshot ](https://github.com/user-attachments/assets/b656db6b-2ad6-4b6e-80cc-cd7615da11f0)
 
 
 ## 1. Gender Distribution Analysis
@@ -72,6 +74,8 @@ Ratings was done by;
 
    - Department
 
+![dept_rating](https://github.com/user-attachments/assets/d88772c5-c71a-4801-8b29-d16a779ed7d4)
+
 
 ## 3. **Salary Structure & Gender Pay Gap Analysis**
 
@@ -87,6 +91,9 @@ Average salary was calculated by:
 
    - Gender & region
 
+![merging ](https://github.com/user-attachments/assets/1d283f11-e8b5-4eb8-b521-ff4dd2059b3d)
+
+
 ## 4. **Minimum Salary Compliance Check**
 
 Compliance with the $90,000 minimum salary regulation was ensured
@@ -100,6 +107,9 @@ Salary data was segmented into $10,000 bands:
 $10k–$20k, $20k–$30k, ..., $90k+
 
 And it was breakdown by region.
+
+![replace](https://github.com/user-attachments/assets/14718fdc-41aa-4b3c-b4b9-8fffb9f04992)
+
 
 ## 5. **Bonus Allocation & Total Compensation Analysis**
 
@@ -121,6 +131,8 @@ below Calculations was applied
 
 - Total compensation payout
 
+![salary band](https://github.com/user-attachments/assets/6edd1802-80fc-4498-8d87-4712ed4bcc68)
+
 
 # ✅ $${\color{Aqua}KEY \space \space INSIGHT}$$
 
@@ -128,11 +140,11 @@ below Calculations was applied
 ### 🔹 1. **Gender Distribution**
 
 
-Overall imbalance: Males constitute a significantly higher percentage of the workforce (e.g., 75%), with females underrepresented, especially in technical and leadership roles.
+Overall imbalance: Males constitute a significantly higher percentage of the workforce (49.2%), with females underrepresented, especially in Legal and Accounting roles.
 
-Regional differences: Region B has the lowest female representation (<20%), while Region C has the highest.
+Regional differences: Kaduna has the lowest female representation (<40%), while Abuja and Lagos has the highest.
 
-Departmental variation: Departments such as Production and Engineering are heavily male-dominated, while HR and Admin have more gender balance.
+Departmental variation: Departments such as Accounting and Legal are heavily male-dominated, while Marketing and Training Deartment have more gender balance.
 
 
 ### 🔹 2. **Performance Ratings by Gender**
