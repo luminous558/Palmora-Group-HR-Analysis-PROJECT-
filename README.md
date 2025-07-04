@@ -33,3 +33,6 @@ The primary objective of this project is to identify, analyze, and address gende
 
 
 # $${\color{blue}PROJECT \space EDA, \space Gender \space Equality \space and \space Pay \space Analysis}$$
+
+
+## 1. Gender Distribution Analysis
