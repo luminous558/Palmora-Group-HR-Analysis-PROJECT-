@@ -154,6 +154,8 @@ Bias patterns: On average, male employees receive higher performance ratings, pa
 
 Rating disparity: A higher proportion of males fall into the top performance band (4–5), which directly affects bonus allocation and promotion eligibility.
 
+<img width="1365" height="728" alt="visualization 3 " src="https://github.com/user-attachments/assets/a3bd305c-c599-4762-8cde-bf7f4c114a9f" />
+
 
 ### 🔹 3. **Salary Structure & Gender Pay Gap**
 
@@ -245,18 +247,18 @@ Introduce diversity-based incentives for departments that show measurable equity
 Below is the Visualisation of PALAMORA Organization that shows Analysis of Gender Pay Gap, Gender Rating by Region and Deartment, Bonus Rate, Salary Band and so...
 The Visualization Include Slicer to Navigate through the Visualizations Dashboard, and below Images shows Answers to Case scenario that was asked by the Company Managements.
 
-![Visualisation 4 Screenshot ](https://github.com/user-attachments/assets/5dedf866-7152-471c-a416-f3f08bb34bd8)
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/99633eb7-aa93-48ee-bd79-47c7011d11a1" />
 
-Using Slicer to navigate Visualizations Dashboard to get Various Output.
+
+Using Gender Slicer to navigate Visualizations Dashboard.
 
 1.
-![Visualization 2 Screenshot](https://github.com/user-attachments/assets/14f41145-301c-4ad3-8aff-af9b91afd942)
+<img width="619" height="418" alt="SLICER 1" src="https://github.com/user-attachments/assets/f801bcb3-71ef-4a64-b90c-e6b6ae61fb78" />
+
 
 2.
-![Visualisation Screenshot](https://github.com/user-attachments/assets/5c96e832-bc68-4890-9d3d-7c42a45e2056)
+<img width="622" height="417" alt="SLICER 2" src="https://github.com/user-attachments/assets/95e8a918-832f-4889-bcb6-971cbc45e7dd" />
 
-3.
-![Visualisation 2 Screenshot](https://github.com/user-attachments/assets/3abf9129-06af-4545-95a3-86389bbff209)
 
 
 
