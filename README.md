@@ -195,49 +195,49 @@ Lagos lags in bonus distribution and overall compensation equity.
 ### 📌 1. **Promote Gender Equity Initiatives**
 
 
-Implement gender targets for recruitment, especially in underrepresented departments (e.g., Accounting, Legal).
+After Gender targets for recruitment was Implemented, especially in underrepresented departments (e.g., Accounting, Legal).
 
-Launch mentoring programs to support women in career progression and leadership development.
+I recommended that the Company should Launch mentoring programs to support women in career progression and leadership development.
 
-Introduce unconscious bias training for hiring managers and performance reviewers.
+And Introduce unconscious bias training for hiring managers and performance reviewers.
 
 
 ### 📌 2. **Address Pay Inequities**
 
 
-Conduct annual pay audits and adjust compensation where unjustified gaps exist.
+Organization should Conduct an annual pay audits, and adjust compensation where unjustified gaps exist.
 
-Standardize pay bands by role, not by gender or region.
+Organization should Standardize pay bands by role, not by gender or region.
 
-Prioritize corrections in high-gap departments like Accounting and Legal.
+And Prioritize corrections in high-gap departments like Accounting and Legal.
 
 
 ### 📌 3. **Ensure Regulatory Compliance**
 
 
-Review salaries below $90,000 and bring them up to meet legal requirements.
+Company should Review salaries below $90,000 and bring them up to meet legal requirements.
 
-Budget for phased adjustments in departments with many sub-threshold earners.
+And Budget for phased adjustments in departments with many sub-threshold earners.
 
-Communicate changes transparently to foster trust and accountability.
+and Company should Communicate changes transparently to foster trust and accountability.
 
 
 ### 📌 4. **Improve Performance Evaluation Fairness**
 
 
-Review and recalibrate rating systems to reduce subjectivity.
+Campany needs to Review and recalibrate rating systems to reduce subjectivity.
 
-Introduce 360-degree feedback mechanisms to ensure diverse input in evaluations.
+And Introduce 360-degree feedback mechanisms to ensure diverse input in evaluations.
 
-Track rating trends by gender to detect and correct systemic bias.
+Company should Track rating trends by gender to detect and correct systemic bias.
 
 
 ### 📌 5. **Redesign Bonus Structure (Optional Enhancement)**
 
 
-Tie bonuses partly to team or department goals to reduce individual performance bias.
+Tying bonuses partly to team or department goals to reduce individual performance bias should well monitored by the Organization 
 
-Introduce diversity-based incentives for departments that show measurable equity improvements.
+And Introduce diversity-based incentives for departments that show measurable equity improvements.
 
 
 
