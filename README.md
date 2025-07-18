@@ -248,7 +248,8 @@ Below is the Visualisation of PALAMORA Organization that shows Analysis of Gende
 The Visualization Include Slicer to Navigate through the Visualizations Dashboard, and below Images shows Answers to Case scenario that was asked by the Company Managements.
 
 
-![20250718_174613](https://github.com/user-attachments/assets/47b083f5-8f67-4f99-8fcc-7a432a3e12b0)
+![20250718_221514](https://github.com/user-attachments/assets/9cf84cae-2ccf-420d-88e2-05d690ababfa)
+
 
 
 Using Gender Slicer to navigate Visualizations Dashboard.
