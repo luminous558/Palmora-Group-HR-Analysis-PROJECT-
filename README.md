@@ -247,8 +247,8 @@ Introduce diversity-based incentives for departments that show measurable equity
 Below is the Visualisation of PALAMORA Organization that shows Analysis of Gender Pay Gap, Gender Rating by Region and Deartment, Bonus Rate, Salary Band and so...
 The Visualization Include Slicer to Navigate through the Visualizations Dashboard, and below Images shows Answers to Case scenario that was asked by the Company Managements.
 
-<img width="881" height="594" alt="PALMORA VIZ" src="https://github.com/user-attachments/assets/a052b2f6-75d9-49ec-a6cc-61c274ac3cac" />
 
+![20250718_174613](https://github.com/user-attachments/assets/47b083f5-8f67-4f99-8fcc-7a432a3e12b0)
 
 
 Using Gender Slicer to navigate Visualizations Dashboard.
