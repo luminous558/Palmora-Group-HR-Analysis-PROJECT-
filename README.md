@@ -77,6 +77,9 @@ Ratings was done by;
 ![dept_rating](https://github.com/user-attachments/assets/d88772c5-c71a-4801-8b29-d16a779ed7d4)
 
 
+
+![merging ](https://github.com/user-attachments/assets/1d283f11-e8b5-4eb8-b521-ff4dd2059b3d)
+
 ## 3. **Salary Structure & Gender Pay Gap Analysis**
 
 pay inequality was Identified and regions/departments where it is most severe.
@@ -91,7 +94,6 @@ Average salary was calculated by:
 
    - Gender & region
 
-![merging ](https://github.com/user-attachments/assets/1d283f11-e8b5-4eb8-b521-ff4dd2059b3d)
 
 
 ## 4. **Minimum Salary Compliance Check**
@@ -107,6 +109,11 @@ Salary data was segmented into $10,000 bands:
 $10k–$20k, $20k–$30k, ..., $90k+
 
 And it was breakdown by region.
+
+
+![salary band](https://github.com/user-attachments/assets/6edd1802-80fc-4498-8d87-4712ed4bcc68)
+
+
 
 ![replace](https://github.com/user-attachments/assets/14718fdc-41aa-4b3c-b4b9-8fffb9f04992)
 
@@ -131,7 +138,7 @@ below Calculations was applied
 
 - Total compensation payout
 
-![salary band](https://github.com/user-attachments/assets/6edd1802-80fc-4498-8d87-4712ed4bcc68)
+<img width="1365" height="728" alt="visualization 3 " src="https://github.com/user-attachments/assets/a3bd305c-c599-4762-8cde-bf7f4c114a9f" />
 
 
 # ✅ $${\color{Aqua}KEY \space \space INSIGHT}$$
@@ -154,7 +161,7 @@ Bias patterns: On average, male employees receive higher performance ratings, pa
 
 Rating disparity: A higher proportion of males fall into the top performance band (4–5), which directly affects bonus allocation and promotion eligibility.
 
-<img width="1365" height="728" alt="visualization 3 " src="https://github.com/user-attachments/assets/a3bd305c-c599-4762-8cde-bf7f4c114a9f" />
+
 
 
 ### 🔹 3. **Salary Structure & Gender Pay Gap**
