@@ -286,6 +286,6 @@ However, this also presents a unique opportunity for the organization to lead by
 The path to gender equity at Palmoria begins with action — and the data has made the next steps clear.
 
 
-# The PDF file of the DASHBOARD  👇👇
+# The PDF file of the DASHBOARD  (For Clearer Vision) 👇👇
 
 [PALMORA VIZ.pdf](https://github.com/user-attachments/files/21333587/PALMORA.VIZ.pdf)
