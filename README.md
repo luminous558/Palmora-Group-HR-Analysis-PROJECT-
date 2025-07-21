@@ -254,19 +254,22 @@ And Introduce diversity-based incentives for departments that show measurable eq
 Below is the Visualisation of PALAMORA Organization that shows Analysis of Gender Pay Gap, Gender Rating by Region and Deartment, Bonus Rate, Salary Band and so...
 The Visualization Include Slicer to Navigate through the Visualizations Dashboard, and below Images shows Answers to Case scenario that was asked by the Company Managements.
 
+![20250721_162504](https://github.com/user-attachments/assets/05bc7b62-428e-4e0b-af67-7d1a03feff0a)
 
-![20250718_221514](https://github.com/user-attachments/assets/9cf84cae-2ccf-420d-88e2-05d690ababfa)
+
 
 
 
 Using Gender Slicer to navigate Visualizations Dashboard.
 
-1.
-<img width="619" height="418" alt="SLICER 1" src="https://github.com/user-attachments/assets/f801bcb3-71ef-4a64-b90c-e6b6ae61fb78" />
+1. (Male)
+![20250721_162614](https://github.com/user-attachments/assets/494ce802-b5c5-4265-bc0c-5215834a9992)
 
 
-2.
-<img width="622" height="417" alt="SLICER 2" src="https://github.com/user-attachments/assets/95e8a918-832f-4889-bcb6-971cbc45e7dd" />
+
+2. (Female)
+![20250721_162708](https://github.com/user-attachments/assets/50bec6b8-f528-40b3-ba5b-4f04c100a056)
+
 
 
 
@@ -288,4 +291,5 @@ The path to gender equity at Palmoria begins with action — and the data has ma
 
 # The PDF file of the DASHBOARD  (For Clearer Vision) 👇👇
 
-[PALMORA VIZ.pdf](https://github.com/user-attachments/files/21333587/PALMORA.VIZ.pdf)
+[PALMORA VIZZZ.pdf](https://github.com/user-attachments/files/21350417/PALMORA.VIZZZ.pdf)
+
