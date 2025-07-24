@@ -291,5 +291,18 @@ The path to gender equity at Palmoria begins with action — and the data has ma
 
 # The PDF file of the DASHBOARD  (For Clearer Vision) 👇👇
 
-[PALMORA VIZZZ.pdf](https://github.com/user-attachments/files/21350417/PALMORA.VIZZZ.pdf)
+[PALMORA VISUALIZATION.PDF.pdf](https://github.com/user-attachments/files/21350417/PALMORA.VIZZZ.pdf)
+
+
+Filtered by Gender (Male) 👇👇
+[PALMORIA VIZ (MALE).pdf](https://github.com/user-attachments/files/21409129/PALMORIA.VIZ.MALE.pdf)
+
+
+
+Filtered by Gender (Female) 👇👇
+[PALMORIA VIZ (FEMALE).pdf](https://github.com/user-attachments/files/21409191/PALMORIA.VIZ.FEMALE.pdf)
+
+
+## Dataset link 
+https://docs.google.com/spreadsheets/d/1NcI4bMV2NQmrn3uIze1sRPvThUV_CjSz/edit?usp=drivesdk&ouid=118302167306515394678&rtpof=true&sd=true
 
