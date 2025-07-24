@@ -295,11 +295,13 @@ The path to gender equity at Palmoria begins with action — and the data has ma
 
 
 Filtered by Gender (Male) 👇👇
+
 [PALMORIA VIZ (MALE).pdf](https://github.com/user-attachments/files/21409129/PALMORIA.VIZ.MALE.pdf)
 
 
 
 Filtered by Gender (Female) 👇👇
+
 [PALMORIA VIZ (FEMALE).pdf](https://github.com/user-attachments/files/21409191/PALMORIA.VIZ.FEMALE.pdf)
 
 
